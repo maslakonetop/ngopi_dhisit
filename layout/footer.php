@@ -5,6 +5,7 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/main.js"></script>
     <script type="text/javascript" src="assets/js/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/jquery.jOrgChart.js"></script>
     <link rel="stylesheet" type="text/css" href="https://www.shieldui.com/shared/components/latest/css/light-bootstrap/all.min.css" />
 <script type="text/javascript" src="https://www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
     <script type="text/javascript">

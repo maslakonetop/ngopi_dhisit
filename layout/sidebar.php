@@ -28,6 +28,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/jquery.jOrgChart.css"/>
+    <link rel="stylesheet" href="assets/css/custom.css"/>
+    <link href="assets/css/prettify.css" type="text/css" rel="stylesheet" />
+
+    <script type="text/javascript" src="assets/js/prettify.js"></script>
   </head>
   <body>
 		

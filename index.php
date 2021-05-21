@@ -4,6 +4,10 @@
   include("layout/header.php");
 ?>
 <?php
+  include("bagansungai.php"); 
+?>
+<br/><br/>
+<?php
   include("chart/chart.php")
 ?>
 <?php
