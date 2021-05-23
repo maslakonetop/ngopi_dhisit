@@ -1,0 +1,12 @@
+<?php
+  include("admin/auth.php");
+  include("layout/sidebar.php");
+  include("layout/header.php");
+?>
+<br/><br/>
+<?php
+  include("chart/chart.php")
+?>
+<?php
+  include("layout/footer.php");
+?>		
