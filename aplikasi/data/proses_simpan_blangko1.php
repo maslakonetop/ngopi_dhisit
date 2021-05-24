@@ -18,5 +18,5 @@ WHERE id = '$id'";
     } else {
         //tampil alert dan akan redirect ke halaman index.php
         //silahkan ganti index.php sesuai halaman yang akan dituju
-        echo "<script>alert('Data berhasil disimpan');window.location='../databaru2.php';</script>";
+        echo "<script>alert('Data berhasil disimpan');window.location='../databaru_A01_2.php';</script>";
     }

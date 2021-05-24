@@ -23,5 +23,5 @@ VALUES ('$daerah','$kode','$masa1','$masa2','$masa3','[value-7]','[value-8]','[v
     } else {
         //tampil alert dan akan redirect ke halaman index.php
         //silahkan ganti index.php sesuai halaman yang akan dituju
-        echo "<script>alert('Data berhasil disimpan.');window.location='../databaru1.php';</script>";
+        echo "<script>alert('Data berhasil disimpan.');window.location='../databaru_A01_1.php';</script>";
     }

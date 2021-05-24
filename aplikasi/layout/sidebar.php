@@ -47,17 +47,18 @@
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="fa fa-book"></span>
                     Blanko O</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
-                    <a class="dropdown-item" href="databaru.php"><span class="fa fa-book"></span> Pengisian Data Blangko</a>
+                    <a class="dropdown-item" href="databaru_A01.php"><span class="fa fa-book"></span> Pengisian Data Blangko</a>
                     <a class="dropdown-item" href="pencarian.php"><span class="fa fa-book"></span> Pengisian Data Blangko O6</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="print.php"><span class="fa fa-book"></span></i> Cetak</a>
+                    <a class="dropdown-item" href="print.php"><span class="fa fa-book"></span></i> Cetak Blangko O</a>
+                    <a class="dropdown-item" href="print.php"><span class="fa fa-book"></span></i> Cetak Papan Operasi</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="fa fa-book"></span>
                     Blanko P</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
-                    <a class="dropdown-item" href=""><span class="fa fa-book"></span> Data Baru</a>
+                    <a class="dropdown-item" href="#"><span class="fa fa-book"></span> Data Baru</a>
                     <a class="dropdown-item" href="#"><span class="fa fa-book"></span> Blanko P1-012</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="print.php"><span class="fa fa-book"></span></i> Cetak</a>
